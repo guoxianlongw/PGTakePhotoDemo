@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  OneViewController.h
 //  PGTakePhotoDemo
 //
 //  Created by Paul.Guo on 15/12/1.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface OneViewController : UIViewController
 
 @end
-
